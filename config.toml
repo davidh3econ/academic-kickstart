@@ -252,7 +252,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/hummel_iii"
 
   [[params.social]]
     icon = "google-scholar"
@@ -285,8 +285,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "My Cool Widget"
+  url = "#mywidget"
   weight = 2
 
 [[menu.main]]
