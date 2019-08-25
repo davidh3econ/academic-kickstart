@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD Candidate in Economics"
   institution = "Northeastern University"
-  year = 2018-Current
+  year = 2018-2019
 
 [[education.courses]]
   course = "BSc in Integrated Systems Engineering"
